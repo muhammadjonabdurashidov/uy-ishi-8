@@ -8,7 +8,7 @@ btnMonn.addEventListener("click", () => {
 body.classList.add("bodystyle");
 btnMonn.style.display = "none";
 btnSun.style.display = "flex";
-btnSun.style.marginLeft = "28px"
+btnSun.style.marginLeft = "60px"
 boxContainer.style.borderColor = "black";
 
 });

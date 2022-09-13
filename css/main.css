@@ -11,16 +11,15 @@ body {
 .container {
   display: flex;
   align-items: center;
-  border: 1px solid rgb(249, 249, 249);
-  width: 50px;
-  height: 23px;
-  border-radius: 16px;
+  border: 2px solid rgb(249, 249, 249);
+  width: 100px;
+  height: 40px;
+  border-radius: 18px;
 }
 
 .btn__moon {
   background: none;
   border: none;
-  margin-right: 10px;
   transition: 0.5s;
 }
 
@@ -36,11 +35,11 @@ body {
 }
 
 .containerstyle {
-  border: 1px solid black;
+  border: 2px solid black;
 }
 
 .boxs {
   display: flex;
   justify-content: center;
-  margin-top: 100px;
+  margin-top: 320px;
 }
